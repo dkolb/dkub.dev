@@ -23,7 +23,7 @@ email: webmaster@dkub.dev
 description: >- # this means to ignore newlines until "baseurl:"
   Mostly just a homestead on the internet. Occasional long form posts will go
   here.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://dkub.dev" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  dkub
 
