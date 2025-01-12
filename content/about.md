@@ -3,12 +3,13 @@
 type: misc
 
 # change these
-jobTitle: Blogger
-name: John Doe
+jobTitle: Old Man On The Internet
+name: David Kolb
 bio: true
-icon: ":coffee:"
+icon: ":smiling_imp:"
+image: 20250111-initial-commit-card.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id erat enim. Ut cursus magna sed luctus auctor. Sed eu augue dignissim, lobortis ipsum eu, dictum nisi. [Integer varius](https://lipsum.com) ex maximus quam lobortis accumsan. Morbi mollis vulputate metus, aliquam feugiat arcu porta a. Quisque id justo ultricies, lacinia elit quis, pulvinar odio. Fusce feugiat at velit vitae lobortis. Nulla fringilla metus et sem mattis posuere.
+I've sunk over 15 years of my life into the tech industry. I have run the gamut from level 2 support for a code base I wasn't allowed to see to a sought out expert for automating the deployment of applications in AWS. Since then, I have carved out a niche at my current employer running IAM and (amateur) security for my employer.
 
-Nulla pellentesque quam sit amet est posuere, tincidunt auctor ligula bibendum. Donec dapibus lacinia nibh, convallis ultrices enim laoreet et. Duis auctor, lectus nec vehicula suscipit, sapien erat pellentesque augue, pulvinar tempus sapien leo sit amet erat. Proin porta, mauris vitae aliquet consectetur, erat eros maximus turpis, at suscipit nibh urna id leo. Nunc commodo sed diam ut aliquet. Duis eros mi, ullamcorper sit amet ex id, aliquet dignissim libero. Fusce at turpis eget nisl feugiat cursus eget vitae elit. Integer auctor enim vel orci fringilla facilisis. Praesent ac euismod tellus.
+A lot more is going to develop here, but first I need to do some customizations of this Hugo theme.

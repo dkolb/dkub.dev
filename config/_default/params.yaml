@@ -3,10 +3,10 @@
 ############################
 
 author:
-  name: "Qubt"
-  image: author.jpeg
-  greeting: "A personal blog theme for Hugo :evergreen_tree:"
-  icon: ":wave:"
+  name: "David Kolb"
+  image: author.jpg
+  greeting: "My personal homestead on the web"
+  icon: "😈️"
 
 ############################
 ## Links
@@ -65,7 +65,7 @@ links:
 ## OpenGraph & Twitter Cards
 ###############################
 
-title: "Qubt Theme"
-description: "Demo site build with Qubt & Hugo"
+title: "Kink and Code"
+description: "A particularly human home for my work on the Internet"
 images:
-  - thumbnail.jpeg
+  - logo.png
