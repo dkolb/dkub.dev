@@ -1,0 +1,6 @@
+FROM hugomods/hugo:latest
+
+COPY . /src
+WORKDIR /src
+
+RUN hugo --minify --destination /src/public
