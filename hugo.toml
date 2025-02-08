@@ -95,39 +95,39 @@ about = ""
   
   [[params.socialLinks]]
     name = "mastodon"
-    url = "https://joinmastodon.org/"
+    url = "https://woof.group/@dkub"
 
   [[params.socialLinks]]
-    name = "x"
-    url = "https://twitter.com/"
+    name = "bluesky"
+    url = "https://bsky.app/profile/dkub.dev"
 
   [[params.socialLinks]]
     name = "github"
-    url = "https://github.com/1bl4z3r/hermit-V2/tree/staging"
+    url = "https://github.com/dkolb"
 
 [menu]
 
   [[menu.main]]
-    name = "Posts (Includes NSFW)"
+    name = "All Posts (Includes NSFW)"
     url = "posts/"
     weight = 10
 
   [[menu.main]]
-    name = "Posts (SFW)"
+    name = "SFW Posts Only"
     url = "tags/sfw/"
-    weight = 15
+    weight = 20
 
   [[menu.main]]
     name = "SFW RSS Feed"
     url = "tags/sfw/index.xml"
-    weight = 16
+    weight = 30
 
   [[menu.main]]
     name = "About"
     url = "about/"
-    weight = 20
+    weight = 40
   
   [[menu.main]]
     name = "Tags"
     url = "tags/"
-    weight = 30
+    weight = 50
