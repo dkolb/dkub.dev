@@ -55,7 +55,7 @@ about = ""
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # description = "CHANGE ME SITE DESCRIPTION"
-  # images = [""]
+  images = ["author.jpg"]
   themeColor = "#494f5c"
   accentColor = "#018472"
 
