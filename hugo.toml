@@ -93,10 +93,6 @@ about = ""
   usesAnimation = true
   
   [[params.socialLinks]]
-    name = "mastodon"
-    url = "https://woof.group/@dkub"
-
-  [[params.socialLinks]]
     name = "bluesky"
     url = "https://bsky.app/profile/dkub.dev"
 
