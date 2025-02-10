@@ -5,11 +5,8 @@ description: >-
   This is an introduction post that mostly is just here so I know
   my blog is working.
 date: 2025-01-11
-cardimage: 20250111-initial-commit-card.png
-images:
-  - 2025011-initial-commit/card.png
-# featureimage: photo1.jpeg
-# caption: Image caption
+cardimage: 20250111-initial-commit/card.png
+# featuredImg: 2025011-initial-commit/card.png
 authors:
   - David: author.jpeg
 tags:
@@ -17,8 +14,6 @@ tags:
   - sfw
 toc: true
 ---
-
-# Initial Commit
 
 Hoo boy here we go again! I'm trying to blog. We'll see how successful I am.
 
