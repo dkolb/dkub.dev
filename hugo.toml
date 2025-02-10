@@ -54,7 +54,7 @@ about = ""
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
   description = "A personal blog of debauchery and screaming about corporate enterprise tech."
-  # images = ["author.jpg"]
+  images = ["logo.png"]
   themeColor = "#494f5c"
   accentColor = "#018472"
 
