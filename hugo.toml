@@ -54,12 +54,12 @@ about = ""
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
-  # description = "CHANGE ME SITE DESCRIPTION"
-  images = ["author.jpg"]
+  description = "A personal blog of debauchery and screaming about corporate enterprise tech."
+  # images = ["author.jpg"]
   themeColor = "#494f5c"
   accentColor = "#018472"
 
-  #homeSubtitle = "CHANGE ME HOME SUBTITLE"
+  homeSubtitle = "Kink · Soulless Corporate Programming · Por Que Los Dos?"
   footerCopyright = "© 2024 David Kolb"
   # footerHideThemeName = false
   # bgImg = ""
@@ -82,7 +82,7 @@ about = ""
   # categorySymbol = "⊲"
   # pinned = "Pinned Posts"
   # pinnedSVGname = "pin"
-  descriptionInPosts= true
+  descriptionInPosts = true
   tagsInPosts = true
   # initialPublish = "Initally Posted on: "
   # human = ["single","posts"]
@@ -118,16 +118,11 @@ about = ""
     weight = 20
 
   [[menu.main]]
-    name = "SFW RSS Feed"
-    url = "tags/sfw/index.xml"
-    weight = 30
-
-  [[menu.main]]
     name = "About"
     url = "about/"
-    weight = 40
+    weight = 30
   
   [[menu.main]]
     name = "Tags"
     url = "tags/"
-    weight = 50
+    weight = 40
