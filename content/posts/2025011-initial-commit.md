@@ -1,6 +1,5 @@
 ---
 title: Initial Commit
-subtitle: "An Introduction"
 description: >-
   This is an introduction post that mostly is just here so I know
   my blog is working.
