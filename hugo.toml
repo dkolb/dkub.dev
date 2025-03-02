@@ -1,6 +1,6 @@
 baseURL = '/'
 defaultContentLanguage = 'en-us'
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 theme = 'hermit-v2'
 enableRobotsTXT = true
 
